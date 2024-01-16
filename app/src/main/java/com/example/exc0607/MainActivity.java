@@ -31,7 +31,10 @@ public class MainActivity extends AppCompatActivity {
             image.setImageResource(R.drawable.smurf2);
             imbu.setImageResource(R.drawable.two);
         }
-
+        if (rand == 3) {
+            image.setImageResource(R.drawable.spookyscary);
+            imbu.setImageResource(R.drawable.three);
+        }
 
 
 
