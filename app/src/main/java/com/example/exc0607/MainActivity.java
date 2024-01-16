@@ -34,6 +34,7 @@ public class MainActivity extends AppCompatActivity {
         if (rand == 3) {
             image.setImageResource(R.drawable.spookyscary);
             imbu.setImageResource(R.drawable.three);
+
         }
 
 
